@@ -11,3 +11,7 @@
 [week 24](https://github.com/SusanReichts/TidyTuesdays/tree/main/2024_06_11)
 
 <img src="https://github.com/SusanReichts/TidyTuesdays/assets/93623936/6ff9b72d-f97e-4d6d-81ff-36aaad34d22c" width="600">
+
+[week 26](https://github.com/SusanReichts/TidyTuesdays/tree/main/2024_06_25)
+
+<img src="https://github.com/SusanReichts/TidyTuesdays/blob/main/2024_06_25/2024_06_25.png" width="600">
